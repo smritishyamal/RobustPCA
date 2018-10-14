@@ -1,4 +1,5 @@
 # Robust PCA
+(Problem and data courtsey: CWP Energy https://cwpenergy.com)
 
 In this repo, I have implemented an optimization algorithm from a given paper.
 The task is to implement: Algorithm 1 (Principal Component Pursuit by Alternating Directions) described on page 29 in
